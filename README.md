@@ -73,7 +73,7 @@ My journey into IT has been fueled by curiosity, persistence, and a desire to im
 ## 📫 Contact Me
 
 - 📧 Email: [eng.esraaalshorman@yahoo.com](mailto:eng.esraaalshorman@yahoo.com)  
-- 🔗 LinkedIn: [linkedin.com/in/esraa-alshorman](https://www.linkedin.com/in/esraa-alshorman/)
+- 🔗 LinkedIn: [linkedin.com/in/esraa-alshorman](www.linkedin.com/in/esraa-alshormanv1)
 
 ---
 
