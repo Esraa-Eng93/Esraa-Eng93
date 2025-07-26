@@ -1,5 +1,14 @@
-<h1 align="center">Hi there 👋, I'm Esra'a Al-shorman</h1>
-<h3 align="center">Biomedical Informatics Engineer | Software Developer in Progress 💻</h3>
+<table>
+  <tr>
+    <td width="160">
+      <img src="https://zwwada.com/wp-content/uploads/2022/07/image-6-e1659733770596-700x430-1.png?v=1664149600" alt="Technology image" width="150">
+    </td>
+    <td>
+      <h1>Hi there 👋, I'm Esra'a Al-shorman</h1>
+      <h3>Biomedical Informatics Engineer | Software Developer in Progress 💻</h3>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Biomedical+Engineer+%7C+42+Amman+Student;C+%26+C%2B%2B+Developer;Linux+%26+System+Programming+Lover;Always+learning+something+new...&center=true&width=500&height=50" />
