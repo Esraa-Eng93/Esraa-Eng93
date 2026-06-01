@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Esra'a Al-shorman</h1>
-<h3 align="center">Biomedical Informatics Engineer | Software Developer in Progress 💻</h3>
+<h3 align="center">Junior Software Developer | Biomedical Engineering Background | 42 Amman Student | Backend & System Architecture</h3>
 
 <p align="center">
   <img src="https://zwwada.com/wp-content/uploads/2022/07/image-6-e1659733770596-700x430-1.png?v=1664149600" alt="Technology Banner" width="100%" />
